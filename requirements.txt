@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langgraph
+langchain_openai
+faiss-cpu
+pydantic
+python-dotenv
+beautifulsoup4
+requests
+streamlit
+wikipedia
+HuggingFaceEmbeddings
